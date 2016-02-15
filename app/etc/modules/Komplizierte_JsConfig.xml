@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Komplizierte_JsConfig>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Komplizierte_JsConfig>
+    </modules>
+</config>

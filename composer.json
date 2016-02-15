@@ -1,0 +1,15 @@
+{
+    "name": "komplizierte/jsconfig",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Add magento implementation of JavaScript Configuration Object Pattern like on stackoverflow.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Komplizirte Technologien",
+            "email":"support@kt-team.de"
+        }
+    ]
+}
